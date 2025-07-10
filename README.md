@@ -54,17 +54,4 @@ This can help:
    - Saved final model (`best_random_forest_model.joblib`)
    - Reloaded and tested on unseen data ✅
 
----
-
-## 📈 Final Results
-
-| Model                | Accuracy | Precision | Recall | F1 Score | ROC AUC |
-|---------------------|----------|-----------|--------|----------|----------|
-| Logistic Regression | ~0.84    | ~0.83     | ~0.85  | ~0.84    | ~0.88    |
-| Random Forest (final) | ✅ **0.90+** | ✅ **0.91+** | ✅ **0.89+** | ✅ **0.90+** | ✅ **0.93+** |
-| Gradient Boosting   | ~0.88    | ~0.89     | ~0.86  | ~0.87    | ~0.91    |
-
----
-
-## 📁 Folder Structure
 
